@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-22T17:00:07.365901+09:00",
+  "last_updated": "2026-02-22T18:00:08.088896+09:00",
   "leagues": {
     "j1_east": {
       "name": "明治安田Ｊ１百年構想リーグEAST",
@@ -80,25 +80,25 @@
         {
           "rank": 7,
           "team": "水戸ホーリーホック",
-          "points": 1,
-          "played": 2,
-          "won": 0,
+          "points": 3,
+          "played": 3,
+          "won": 1,
           "drawn": 0,
           "lost": 2,
-          "gf": 3,
-          "ga": 5,
+          "gf": 4,
+          "ga": 6,
           "gd": -2
         },
         {
           "rank": 8,
           "team": "ジェフユナイテッド千葉",
-          "points": 1,
-          "played": 2,
+          "points": 2,
+          "played": 3,
           "won": 0,
           "drawn": 0,
-          "lost": 2,
-          "gf": 0,
-          "ga": 2,
+          "lost": 3,
+          "gf": 1,
+          "ga": 3,
           "gd": -2
         },
         {
