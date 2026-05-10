@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09T21:00:31.994194+09:00",
+  "last_updated": "2026-05-10T17:00:32.536798+09:00",
   "leagues": {
     "j1_east": {
       "name": "明治安田Ｊ１百年構想リーグEAST",
@@ -698,35 +698,35 @@
         {
           "rank": 1,
           "team": "ベガルタ仙台",
-          "points": 38,
-          "played": 15,
-          "won": 14,
+          "points": 40,
+          "played": 16,
+          "won": 15,
           "drawn": 0,
           "lost": 1,
-          "gf": 29,
-          "ga": 11,
+          "gf": 30,
+          "ga": 12,
           "gd": 18
         },
         {
           "rank": 2,
           "team": "湘南ベルマーレ",
           "points": 31,
-          "played": 15,
+          "played": 16,
           "won": 11,
           "drawn": 0,
-          "lost": 4,
+          "lost": 5,
           "gf": 24,
-          "ga": 13,
-          "gd": 11
+          "ga": 14,
+          "gd": 10
         },
         {
           "rank": 3,
           "team": "ブラウブリッツ秋田",
-          "points": 28,
-          "played": 15,
+          "points": 29,
+          "played": 16,
           "won": 9,
           "drawn": 0,
-          "lost": 6,
+          "lost": 7,
           "gf": 19,
           "ga": 13,
           "gd": 6
@@ -734,26 +734,26 @@
         {
           "rank": 4,
           "team": "ＳＣ相模原",
-          "points": 24,
-          "played": 15,
-          "won": 8,
+          "points": 27,
+          "played": 16,
+          "won": 9,
           "drawn": 0,
           "lost": 7,
-          "gf": 25,
-          "ga": 23,
-          "gd": 2
+          "gf": 28,
+          "ga": 25,
+          "gd": 3
         },
         {
           "rank": 5,
           "team": "横浜ＦＣ",
-          "points": 20,
-          "played": 15,
-          "won": 7,
+          "points": 23,
+          "played": 16,
+          "won": 8,
           "drawn": 0,
           "lost": 8,
-          "gf": 29,
+          "gf": 30,
           "ga": 27,
-          "gd": 2
+          "gd": 3
         },
         {
           "rank": 6,
@@ -771,13 +771,13 @@
           "rank": 7,
           "team": "モンテディオ山形",
           "points": 19,
-          "played": 15,
+          "played": 16,
           "won": 7,
           "drawn": 0,
-          "lost": 8,
-          "gf": 15,
-          "ga": 18,
-          "gd": -3
+          "lost": 9,
+          "gf": 17,
+          "ga": 21,
+          "gd": -4
         },
         {
           "rank": 8,
@@ -794,9 +794,9 @@
         {
           "rank": 9,
           "team": "栃木ＳＣ",
-          "points": 15,
-          "played": 15,
-          "won": 4,
+          "points": 17,
+          "played": 16,
+          "won": 5,
           "drawn": 0,
           "lost": 11,
           "gf": 23,
@@ -806,13 +806,13 @@
         {
           "rank": 10,
           "team": "ヴァンラーレ八戸",
-          "points": 15,
-          "played": 15,
+          "points": 16,
+          "played": 16,
           "won": 4,
           "drawn": 0,
-          "lost": 11,
-          "gf": 13,
-          "ga": 17,
+          "lost": 12,
+          "gf": 14,
+          "ga": 18,
           "gd": -4
         }
       ],
@@ -1094,9 +1094,9 @@
         {
           "rank": 6,
           "team": "藤枝ＭＹＦＣ",
-          "points": 24,
-          "played": 15,
-          "won": 7,
+          "points": 26,
+          "played": 16,
+          "won": 8,
           "drawn": 0,
           "lost": 8,
           "gf": 18,
@@ -1106,11 +1106,11 @@
         {
           "rank": 7,
           "team": "松本山雅ＦＣ",
-          "points": 22,
-          "played": 15,
+          "points": 23,
+          "played": 16,
           "won": 7,
           "drawn": 0,
-          "lost": 8,
+          "lost": 9,
           "gf": 27,
           "ga": 17,
           "gd": 10
@@ -1119,25 +1119,25 @@
           "rank": 8,
           "team": "ジュビロ磐田",
           "points": 22,
-          "played": 15,
+          "played": 16,
           "won": 8,
           "drawn": 0,
-          "lost": 7,
-          "gf": 13,
-          "ga": 16,
-          "gd": -3
+          "lost": 8,
+          "gf": 15,
+          "ga": 20,
+          "gd": -5
         },
         {
           "rank": 9,
           "team": "福島ユナイテッドＦＣ",
-          "points": 13,
-          "played": 15,
-          "won": 4,
+          "points": 16,
+          "played": 16,
+          "won": 5,
           "drawn": 0,
           "lost": 11,
-          "gf": 21,
-          "ga": 33,
-          "gd": -12
+          "gf": 25,
+          "ga": 35,
+          "gd": -10
         },
         {
           "rank": 10,
@@ -1726,26 +1726,26 @@
         {
           "rank": 2,
           "team": "サガン鳥栖",
-          "points": 27,
-          "played": 15,
-          "won": 9,
+          "points": 30,
+          "played": 16,
+          "won": 10,
           "drawn": 0,
           "lost": 6,
-          "gf": 20,
+          "gf": 21,
           "ga": 11,
-          "gd": 9
+          "gd": 10
         },
         {
           "rank": 3,
           "team": "鹿児島ユナイテッドＦＣ",
           "points": 27,
-          "played": 15,
+          "played": 16,
           "won": 10,
           "drawn": 0,
-          "lost": 5,
+          "lost": 6,
           "gf": 16,
-          "ga": 12,
-          "gd": 4
+          "ga": 13,
+          "gd": 3
         },
         {
           "rank": 4,
@@ -1763,73 +1763,73 @@
           "rank": 5,
           "team": "ロアッソ熊本",
           "points": 25,
-          "played": 15,
+          "played": 16,
           "won": 8,
           "drawn": 0,
-          "lost": 7,
+          "lost": 8,
           "gf": 18,
-          "ga": 16,
-          "gd": 2
+          "ga": 17,
+          "gd": 1
         },
         {
           "rank": 6,
           "team": "大分トリニータ",
           "points": 21,
-          "played": 15,
+          "played": 16,
           "won": 7,
           "drawn": 0,
-          "lost": 8,
+          "lost": 9,
           "gf": 17,
-          "ga": 15,
-          "gd": 2
+          "ga": 16,
+          "gd": 1
         },
         {
           "rank": 7,
           "team": "ガイナーレ鳥取",
-          "points": 17,
-          "played": 14,
-          "won": 6,
+          "points": 19,
+          "played": 15,
+          "won": 7,
           "drawn": 0,
           "lost": 8,
-          "gf": 13,
-          "ga": 20,
+          "gf": 14,
+          "ga": 21,
           "gd": -7
         },
         {
           "rank": 8,
-          "team": "ギラヴァンツ北九州",
-          "points": 14,
+          "team": "レイラック滋賀ＦＣ",
+          "points": 16,
           "played": 15,
-          "won": 4,
+          "won": 5,
           "drawn": 0,
-          "lost": 11,
-          "gf": 15,
-          "ga": 25,
-          "gd": -10
+          "lost": 10,
+          "gf": 10,
+          "ga": 23,
+          "gd": -13
         },
         {
           "rank": 9,
-          "team": "レイラック滋賀ＦＣ",
-          "points": 13,
-          "played": 14,
+          "team": "ギラヴァンツ北九州",
+          "points": 15,
+          "played": 16,
           "won": 4,
           "drawn": 0,
-          "lost": 10,
-          "gf": 9,
-          "ga": 23,
-          "gd": -14
+          "lost": 12,
+          "gf": 16,
+          "ga": 26,
+          "gd": -10
         },
         {
           "rank": 10,
           "team": "ＦＣ琉球",
-          "points": 12,
-          "played": 15,
-          "won": 4,
+          "points": 15,
+          "played": 16,
+          "won": 5,
           "drawn": 0,
           "lost": 11,
-          "gf": 9,
+          "gf": 10,
           "ga": 20,
-          "gd": -11
+          "gd": -10
         }
       ],
       "team_colors": {
@@ -1840,8 +1840,8 @@
         "ロアッソ熊本": "#E6002D",
         "大分トリニータ": "#002D93",
         "ガイナーレ鳥取": "#69B629",
-        "ギラヴァンツ北九州": "#FFE600",
         "レイラック滋賀ＦＣ": "#3DB8E1",
+        "ギラヴァンツ北九州": "#FFE600",
         "ＦＣ琉球": "#8B0000"
       },
       "history": {
@@ -2002,7 +2002,7 @@
             9,
             8,
             8,
-            8
+            9
           ]
         },
         "大分トリニータ": {
@@ -2040,7 +2040,7 @@
             8,
             9,
             9,
-            9
+            8
           ]
         }
       }
