@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T21:00:32.450142+09:00",
+  "last_updated": "2026-05-17T22:00:32.647284+09:00",
   "leagues": {
     "j1_east": {
       "name": "明治安田Ｊ１百年構想リーグEAST",
@@ -8,14 +8,14 @@
         {
           "rank": 1,
           "team": "鹿島アントラーズ",
-          "points": 39,
-          "played": 16,
-          "won": 13,
+          "points": 42,
+          "played": 17,
+          "won": 14,
           "drawn": 0,
           "lost": 3,
-          "gf": 26,
+          "gf": 28,
           "ga": 9,
-          "gd": 17
+          "gd": 19
         },
         {
           "rank": 2,
@@ -32,13 +32,13 @@
         {
           "rank": 3,
           "team": "ＦＣ町田ゼルビア",
-          "points": 33,
-          "played": 16,
+          "points": 34,
+          "played": 17,
           "won": 12,
           "drawn": 0,
-          "lost": 4,
-          "gf": 21,
-          "ga": 18,
+          "lost": 5,
+          "gf": 22,
+          "ga": 19,
           "gd": 3
         },
         {
@@ -68,13 +68,13 @@
         {
           "rank": 6,
           "team": "川崎フロンターレ",
-          "points": 23,
-          "played": 16,
-          "won": 8,
+          "points": 25,
+          "played": 17,
+          "won": 9,
           "drawn": 0,
           "lost": 8,
-          "gf": 19,
-          "ga": 25,
+          "gf": 20,
+          "ga": 26,
           "gd": -6
         },
         {
@@ -117,13 +117,13 @@
           "rank": 10,
           "team": "ジェフユナイテッド千葉",
           "points": 12,
-          "played": 16,
+          "played": 17,
           "won": 3,
           "drawn": 0,
-          "lost": 13,
+          "lost": 14,
           "gf": 16,
-          "ga": 25,
-          "gd": -9
+          "ga": 27,
+          "gd": -11
         }
       ],
       "team_colors": {
